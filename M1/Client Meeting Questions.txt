@@ -1,0 +1,22 @@
+
+Confirmed questions:
+1.         Is the chief the one who allocate and plan workload? Do they need to schedule their workload through the Workload Management System also? 
+(If yes, does officers & leaders submit their availabilities every wed?)
+
+2.         We would like to confirm the roles. Are the Staffs => Leaders, Officers? And Chiefs are Managers
+•          What's the access level of each role (4 roles given: IT admin, Chief, leaders and officers). Also any difference in access level between site leader and area leader?
+•          Will reporting be done through the management system? If yes, what is the reporting hierarchy and what does it entails?
+
+3.         What does the Chief need to see/visualize on the Workload Management System when overseeing the sites?
+
+4.         How do you quantify the workload assigned? Is it by hours or the type of site?
+
+5.         Do you track standby manpower (E.g Available, Standby, Unavailable, Assigned etc.)
+
+6.         Do want the workload management system to track attendance (on the actual day, signing out) like a clock-in, clock-out feature
+•          Do you want the system to automate last minute changes or leave it up to Manager?
+•          Who can edit staffs’ hours?
+
+7.         What does point 4 mean: "The manager should be able to view up to three staff availability and any relevant information to make the job assignment easier on the job allocation page" 
+Do you just want to see any 3 available staffs’ names or is there a specific way you want it to be sorted?
+ 
